@@ -1,0 +1,4 @@
+SpringOrm\config\AppConfig.class
+SpringOrm\controller\DeptController.class
+SpringOrm\dao\DeptDAO.class
+SpringOrm\model\Dept.class
